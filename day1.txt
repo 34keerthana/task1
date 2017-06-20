@@ -1,0 +1,37 @@
+1.write the logic to check total male and female
+  1.start
+  2.start taking the males and females
+  3.if the gender is male,then male
+  4.if the gender is female,then female
+  5.compare how many males and females citizen are present
+  6.stop
+
+
+
+2.write the logic to check how many citizens are graduated
+   1.start
+   2.start taking the deatils of citizen like id,gender,age,qualification,city,state,country,employment status and martial status
+   3.check the citizens are graduated or post graduated.
+   4.count the graduated citizen
+   5.check if some more citizen are graduated citizen and count the numbers
+   6.stop
+
+
+
+3.write the logic to check how many citizen is having income more than 1 lakh per month
+   1.start
+   2.start taking the citizen details.
+   3.check the number of citizen having salary greater than 1 lakh per month
+   4.count the citizen
+   5.check some more citizen having greater than 1 lakh per month and goto step2
+   6.stop
+
+
+4.write the logic to check how many are married,single and widow
+   1.start
+   2.check the martial status of citizen
+   3.count the number of married citizen
+   4.count the number of single citizen
+   5.count the number of widow citizen
+   6.compare them with the total number of married,single and widow citizen and goto step2.
+   7.stop 
